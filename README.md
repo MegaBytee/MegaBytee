@@ -1,4 +1,12 @@
 ## Hi there 👋
+Hello, I am a software engineer. You can call me MB. 
+Now focusing on nostr protocol. 
+check nostr.com for know about this new technology.
+Interest : #Golang #Bitcoin #Nostr #TS #Serverless #DevOps #Blockchain.
+- 🔭 I’m currently working on Hivemash.
+- 🌱 I’m currently learning about blockchain & nostr protocol.
+- 👯 I’m looking to collaborate on go/typescript projects.
+- 📫 How to reach me: DM via Linkedin.
 
 <!--
 **MegaBytee/MegaBytee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
